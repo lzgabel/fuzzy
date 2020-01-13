@@ -22,4 +22,9 @@ public class HelloWroldController {
         return "Hello Wrold!";
     }
 
+    @GetMapping("/auto/deploy")
+    public String auto() {
+        return "Auto Deploy Test";
+    }
+
 }
