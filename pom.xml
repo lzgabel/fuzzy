@@ -12,6 +12,7 @@
     <artifactId>fuzzy</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>fuzzy</name>
+    <packaging>jar</packaging>
     <description>CI/CD Demo project for Spring Boot</description>
 
     <properties>
